@@ -1,10 +1,7 @@
 # Day 16 Submission — Team [tên team]
 
 ## Members
-- [tên + vai trò]
-- [tên + vai trò]
-- [tên + vai trò]
-
+Trần Tiến Long - 2A202600315
 ---
 
 ## 1. Idea reframed
